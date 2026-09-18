@@ -86,7 +86,8 @@ document.addEventListener("keydown",
 					
 					else if (key=="Escape")
 						{
-							clearDisplay();					}
+							clearDisplay();					
+						}
 					
 				
 });
